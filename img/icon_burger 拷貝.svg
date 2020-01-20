@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_burger(b)</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="RWD" transform="translate(-327.000000, -22.000000)" fill="#FFFFFF">
+            <g id="Header">
+                <g id="icon_burger(b)" transform="translate(327.000000, 22.000000)">
+                    <path d="M0.8,1.6 L17.2,1.6 C17.64,1.6 18,1.24 18,0.8 C18,0.36 17.64,0 17.2,0 L0.8,0 C0.361,0 0,0.36 0,0.8 C0,1.24 0.361,1.6 0.8,1.6" id="Fill-1"></path>
+                    <path d="M17.2,8.19999981 L0.8,8.19999981 C0.36,8.19999981 0,8.55899981 0,8.99999981 C0,9.43899981 0.36,9.79999981 0.8,9.79999981 L17.2,9.79999981 C17.639,9.79999981 18,9.43899981 18,8.99999981 C18,8.55899981 17.639,8.19999981 17.2,8.19999981" id="Fill-4"></path>
+                    <path d="M17.2,16.3999996 L0.8,16.3999996 C0.36,16.3999996 0,16.7589996 0,17.1999996 C0,17.6399996 0.36,17.9999996 0.8,17.9999996 L17.2,17.9999996 C17.639,17.9999996 18,17.6399996 18,17.1999996 C18,16.7589996 17.639,16.3999996 17.2,16.3999996" id="Fill-7"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
